@@ -1,2 +1,3 @@
-def introduction
-    puts introduction_with_name
+def introduction ("name")
+    puts "hi, my name is Josh"
+  end
