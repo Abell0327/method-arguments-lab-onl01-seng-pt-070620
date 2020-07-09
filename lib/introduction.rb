@@ -1,3 +1,3 @@
-def introduction(name_language)
+def introduction #{name,language}
 end
   
